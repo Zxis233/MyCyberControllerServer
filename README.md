@@ -1,0 +1,2 @@
+# MyCyberControllerServer
+CyberControllerServer的改版，检测到游戏运行自动打开监视界面
